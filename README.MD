@@ -1,4 +1,4 @@
-![LP Tech - Streamlit Testlab](./static/lp-tech.png)  
+![LP Tech - Streamlit Testlab](/static/lp-tech.png)  
 
 ## [LP Tech - Streamlit Testlab](https://streamlit.pier.dk) 
 ### Who am I?

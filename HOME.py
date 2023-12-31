@@ -8,7 +8,7 @@ st.set_page_config(
 
 st.write("# Hovedside for eksperimenter")
 st.divider()
-reader=open("readme.md").read()
+reader=open("README.MD").read()
 
 st.markdown(reader)
 test = input("Habs")
